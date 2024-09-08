@@ -13,4 +13,4 @@ params:
     footer: ''
   posts:
     index:
-      layout: 'grid'
+      layout: grid
