@@ -4,6 +4,8 @@ removePathAccents: true
 pagination:
   pagerSize: 30
 params:
+  breadcrumb:
+    position: after-hero
   summary:
     position: hero
   search:
@@ -14,3 +16,12 @@ params:
   posts:
     index:
       layout: grid
+    share_links:
+      enabled: true
+      email: true
+      facebook: false
+      linkedin: true
+      mastodon: true
+      telegram: false
+      twitter: false
+      whatsapp: false

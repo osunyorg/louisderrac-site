@@ -1,0 +1,35 @@
+picture
+    img
+        border-radius: 5px
+.hero 
+    .content
+        @include media-breakpoint-up(desktop)
+            flex-direction: column
+            .hero-text
+                margin-bottom: $spacing-6
+                padding-left: offset(4)
+                width: 100%
+            figure
+                padding-left: offset(4)
+                width: 100%
+    &--image-landscape 
+        .content 
+            figure
+                @include media-breakpoint-down(desktop)
+                    margin-left: auto
+                    margin-right: auto
+
+.breadcrumb-container
+    background: $color-background-alt
+    margin-bottom: $spacing-4
+    margin-top: $spacing-4
+    padding-top: $spacing-2
+    padding-bottom: $spacing-2
+    @include media-breakpoint-down(desktop)
+        margin-top: $spacing-3 !important
+
+.block-chapter--alt_background
+    .block-content
+        .chapter
+            @include media-breakpoint-up(desktop)
+                border-radius: 5px
