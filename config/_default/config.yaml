@@ -11,3 +11,6 @@ params:
   logo:
     header: ''
     footer: ''
+  posts:
+    index:
+      layout: 'grid'
