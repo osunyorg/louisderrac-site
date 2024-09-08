@@ -9,6 +9,7 @@ fr:
   params:
     social:
   permalinks:
+    posts: /carnet/:year-:month-:day-:slug/
   taxonomies:
     administrator: administrators
     author: authors
