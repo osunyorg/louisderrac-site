@@ -2,6 +2,11 @@
 
 baseURL: https://site.louisderrac.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 5122049b-9963-44db-aeb7-a1983851321a
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
