@@ -10,10 +10,6 @@ fr:
   params:
     contact_details:
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /carnet/:year-:month-:day-:slug/
-    posts_categories: /carnet/:slug/
   taxonomies:
     administrator: administrators
     author: authors
