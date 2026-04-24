@@ -15,22 +15,22 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/actualites/2024-09-08-eduquer-au-numerique-sur-la-ligne-de-crete-entre-paniques-morales-et-technorassurisme/index.html"
+from = "/actualites/2024-09-08-eduquer-au-numerique-sur-la-ligne-de-crete-entre-paniques-morales-et-technorassurisme/"
 to = "/carnet/2024-09-08-eduquer-au-numerique-sur-la-ligne-de-crete-entre-paniques-morales-et-technorassurisme/"
 
 [[redirects]]
-from = "/louis-derrac/index.html"
+from = "/louis-derrac/"
 to = "/equipe/louis-derrac/"
 
 [[redirects]]
-from = "/louis-derrac/carnet/index.html"
+from = "/louis-derrac/carnet/"
 to = "/equipe/louis-derrac/carnet/"
 
 [[redirects]]
-from = "/actualites/index.html"
+from = "/actualites/"
 to = "/carnet/"
 
 [[redirects]]
-from = "/actualites/2024-09-08-eduquer-au-numerique-dans-la-ligne-de-crete-entre-paniques-morales-et-technorassurisme/index.html"
+from = "/actualites/2024-09-08-eduquer-au-numerique-dans-la-ligne-de-crete-entre-paniques-morales-et-technorassurisme/"
 to = "/carnet/2024-09-08-eduquer-au-numerique-sur-la-ligne-de-crete-entre-paniques-morales-et-technorassurisme/"
 
